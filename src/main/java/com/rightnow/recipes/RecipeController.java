@@ -1,3 +1,4 @@
+package com.rightnow.recipes;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
